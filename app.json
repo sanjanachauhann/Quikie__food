@@ -16,13 +16,13 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "package": "com.quickieios.com"
+     
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
-        "package": "com.quickieandroid.com"
+        
       }
     },
     "web": {
